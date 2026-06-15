@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Video Player Plate Glassmorphic Neon Plate -->
+    <path
+        android:pathData="M30,22h48a8,8 0,0 1,8 8v32a8,8 0,0 1,-8 8h-48a8,8 0,0 1,-8,-8v-32a8,8 0,0 1,8,-8z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="86"
+                android:endY="70"
+                android:startX="22"
+                android:startY="22"
+                android:type="linear">
+                <item
+                    android:color="#5F5DFA"
+                    android:offset="0.0" />
+                <item
+                    android:color="#7C3AED"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    
+    <!-- White Play Triangle Symbol representing video clips -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,36l18,10l-18,10z" />
+    
+    <!-- Timing Subtitle bar 1 (Mint green highlight) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M32,76h44c1.38,0 2.5,1.12 2.5,2.5c0,1.38 -1.12,2.5 -2.5,2.5h-44c-1.38,0 -2.5,-1.12 -2.5,-2.5c0,-1.38 1.12,-2.5 2.5,-2.5z" />
+
+    <!-- Timing Subtitle bar 2 (Gold highlight) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M44,85h20c1.38,0 2.5,1.12 2.5,2.5c0,1.38 -1.12,2.5 -2.5,2.5h-20c-1.38,0 -2.5,-1.12 -2.5,-2.5c0,-1.38 1.12,-2.5 2.5,-2.5z" />
+</vector>

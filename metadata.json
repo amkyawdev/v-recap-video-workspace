@@ -1,0 +1,6 @@
+{
+  "name": "V Recap Studio",
+  "description": "Premium Android Jetpack Compose video editing workspace with subtitle timeline and multi-asset imports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
